@@ -126,4 +126,4 @@ AIFFEL_Quest_cr
 │       └── README.md
 └── README.md
 
-40 directories, 38 files
+40 directories, 37 files
