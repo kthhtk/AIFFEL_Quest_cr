@@ -29,8 +29,6 @@ AIFFEL_Quest_cr
 │   │   └── README.md
 │   └── SubQuestC28
 │       ├── .ipynb
-│       ├── .ipynb_checkpoints
-│       │   └── .ipynb-checkpoint
 │       └── README.md
 ├── Flutter
 │   ├── SubQuestB16
@@ -65,13 +63,7 @@ AIFFEL_Quest_cr
 │   │   └── README.md
 │   └── SubQuestC15
 │       ├── .ipynb
-│       ├── .ipynb_checkpoints
-│       │   └── .ipynb-checkpoint
 │       └── README.md
-├── .ipynb
-├── .ipynb_checkpoints
-│   ├── ..ipynb-checkpoint
-│   └── .ipynb-checkpoint
 ├── MainQuest
 │   ├── .ipynb_checkpoints
 │   ├── MainQuest01
@@ -97,8 +89,6 @@ AIFFEL_Quest_cr
 │   │   └── README.md
 │   └── MainQuest08
 │       ├── .ipynb
-│       ├── .ipynb_checkpoints
-│       │   └── .ipynb-checkpoint
 │       └── README.md
 ├── Python
 │   ├── SubQuestB05케창딥02,03
@@ -132,6 +122,5 @@ AIFFEL_Quest_cr
 │       ├── .ipynb
 │       └── README.md
 ├── README.md
-└── tree.md
 
 78 directories, 113 files
