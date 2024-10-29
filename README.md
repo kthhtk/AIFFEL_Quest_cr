@@ -12,6 +12,31 @@
 
 
 AIFFEL_Quest_cr
+├── MainQuest
+│   ├── MainQuest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── MainQuest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── MainQuest08
+│       ├── .ipynb
+│       └── README.md
 ├── Exploration
 │   ├── SubQuestC22
 │   │   ├── .ipynb
@@ -66,32 +91,6 @@ AIFFEL_Quest_cr
 │   │   ├── .ipynb
 │   │   └── README.md
 │   └── SubQuestC15
-│       ├── .ipynb
-│       └── README.md
-├── MainQuest
-│   ├── .ipynb_checkpoints
-│   ├── MainQuest01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest02
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest03
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest04
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest05
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest06
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── MainQuest07
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── MainQuest08
 │       ├── .ipynb
 │       └── README.md
 ├── Python
