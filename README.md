@@ -125,5 +125,3 @@ AIFFEL_Quest_cr
 │       ├── .ipynb
 │       └── README.md
 └── README.md
-
-78 directories, 113 files
