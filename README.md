@@ -1,5 +1,10 @@
 ```bash
 
+아이펠 온라인 10기 퀘스트 레포지토리 입니다.
+
+
+
+구조는 아래와 같습니다.
 
 AIFFEL_Quest_cr
 ├── Exploration
