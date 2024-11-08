@@ -34,6 +34,6 @@ class Square:
         area = (base + topSide) * height / 2
         print(f'사다리꼴의 넓이는 : {area}')
 
-a = Square()  # 객체 생성 & 2, 3을 각각 입력해 봅시다.
+a = Square()  # 객체 생성 1, 2, 3을 각각 입력해 봅시다.
 
 
