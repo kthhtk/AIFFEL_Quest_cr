@@ -1,3 +1,5 @@
+![](timer.gif)
+	
 // Material Design 위젯을 사용하기 위한 Flutter의 기본 패키지입니다.
 // 앱의 디자인과 기본 위젯들을 제공합니다.
 import 'package:flutter/material.dart';
