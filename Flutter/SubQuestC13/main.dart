@@ -41,9 +41,9 @@ class _FirstPageState extends State<FirstPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             ElevatedButton(
-              onPressed: () async {
+              onPressed: () {
                 // "Next" 버튼 클릭 시 SecondPage로 이동하며 isCat을 false로 설정
-                final result = await Navigator.push(
+                Navigator.push(
                   context,
                   MaterialPageRoute(
                     builder: (context) => SecondPage(isCat: false),
@@ -51,9 +51,6 @@ class _FirstPageState extends State<FirstPage> {
                 );
 
                 // SecondPage에서 반환된 값을 업데이트
-                setState(() {
-                  isCat = result ?? isCat; // 반환값이 null이면 기존 값 유지
-                });
               },
               child: Text('Next'), // 버튼 텍스트 "Next"
             ),
@@ -117,6 +114,7 @@ class SecondPage extends StatelessWidget {
     );
   }
 }
+
 
 
 
