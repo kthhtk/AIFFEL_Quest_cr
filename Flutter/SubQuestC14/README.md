@@ -17,7 +17,7 @@
 
 
 ## 앱 구조도
-
+![Flow Diagram](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/blob/master/Flutter/SubQuestC14/phone.png)
 ![Flow Diagram](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_flow.png)
 
 
