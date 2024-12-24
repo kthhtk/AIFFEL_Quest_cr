@@ -26,7 +26,7 @@
 
 ## 앱 와이어프레임 (사용 툴 : 0000)
 
-![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
+![Flow Diagram](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/blob/master/Flutter/SubQuestC14/wireframe.png)
 
 
 ## 프로토타이핑 (사용 툴 : 0000)
