@@ -26,7 +26,8 @@
 
 ## 앱 와이어프레임 (사용 툴 : 0000)
 
-![Flow Diagram](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/blob/master/Flutter/SubQuestC14/wireframe.png)
+![Wireframe](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/wireframe.png)
+
 
 
 ## 프로토타이핑 (사용 툴 : 0000)
