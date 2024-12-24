@@ -31,7 +31,7 @@
 
 
 ## 프로토타이핑 (사용 툴 : figma)
-[![Watch the video](https://via.placeholder.com/640x360.png?text=Click+to+Play)](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_project.mp4)
+https://github.com/kthhtk/AIFFEL_Quest_cr/blob/master/Flutter/SubQuestC14/node3_6_project.mp4
 
 
 
