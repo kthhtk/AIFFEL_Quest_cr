@@ -32,21 +32,27 @@
 
 ## 프로토타이핑 (사용 툴 : 0000)
 
-![AI-UX-4-2-13 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/276a76a9-dadc-47c0-a9d3-169e7c033693)
 
 
 
 ## 페이지 구현
-1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.
-2. loading.dart - 로딩페이지
-3. mypage.dart - 나의페이지
-4. my_location.dart - 위치정보를 포함한 런닝 기록
-5. run_test.dart - 런냥이 테스트 페이지
+1. main.dart - 라우터로 9개의 페이지를 관리합니다.
+2. logo_page.dart - 처음 진입시 페이지
+3. signup_page.dart - 회원가입 페이지
+4. login_page.dart - 로그인 페이지
+5. main_page.dart - 메인 페이지. 여기서 5개의 페이지로 이동 가능, 유튜브, 레코드, 업로드 페이지의 완성본을 리스트로 보여줌.
+6. play_page.dart - 플레이 페이지, 메인페이지의 리스트를 플레이함.
+7. youtube_page.dart - 유튜브 페이지
+8. record_page.dart - 레코드 페이지
+9. upload_page.dart - 업로드 페이지
+10. options_page.dart - 옵션 페이지
 
 
 
 ## 구현영상 
-https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
+<video src="https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_project.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
 
 
 
