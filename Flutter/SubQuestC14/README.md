@@ -30,7 +30,7 @@
 
 
 
-## 프로토타이핑 (사용 툴 : figma)
+## 프로토타이핑 영상 (사용 툴 : figma)
 https://github.com/user-attachments/assets/d0eff1da-1c77-45f2-9a53-48ed866f762f
 
 
@@ -51,9 +51,6 @@ https://github.com/user-attachments/assets/d0eff1da-1c77-45f2-9a53-48ed866f762f
 
 
 ## 구현영상 
-<video src="https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_project.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
 
 
 
@@ -64,7 +61,4 @@ https://github.com/user-attachments/assets/d0eff1da-1c77-45f2-9a53-48ed866f762f
 
 
 ## 회고
-구현된 어플리케이션을 분석하고 재설계하는 부분이 재미있었습니다.     
-하지만 아직 플러터가 익숙하지 않아서 구현에 많은 어려움이 있었습니다.      
-더 많이 연습해서 최종 프로젝트인 아이펠톤에서는 나만의 AI 어플리케이션을 만들어낼겁니다.     
-화이팅!!!
+
