@@ -54,11 +54,8 @@ https://github.com/user-attachments/assets/d0eff1da-1c77-45f2-9a53-48ed866f762f
 https://github.com/user-attachments/assets/f4af3cef-8dd7-4c10-ae87-fc92c1d0162d
 
 
-
-
-
-## 참고 학습 자료 
-
-
 ## 회고
+프로토 타이핑에 있어서 이미지를 이쁘게 구현할 시간과 실력이 없어서 부족한 점이 아쉽다.
+기획, 디자인, 코딩, 모든걸 다 갖추어야 앱을 이쁘게 하나 만들어야 이쁘게 만들수 있을것 같다.
+
 
