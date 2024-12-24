@@ -50,7 +50,10 @@
 
 
 ## 구현영상 
-[![Watch the video](https://via.placeholder.com/640x360.png?text=Click+to+Play)](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_project.mp4)
+<video src="https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/node3_6_project.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
