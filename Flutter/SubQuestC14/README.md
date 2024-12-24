@@ -24,7 +24,7 @@
 
 
 
-## 앱 와이어프레임 (사용 툴 : 0000)
+## 앱 와이어프레임 (사용 툴 : figma)
 
 ![Wireframe](https://raw.githubusercontent.com/kthhtk/AIFFEL_Quest_cr/master/Flutter/SubQuestC14/wireframe.png)
 
