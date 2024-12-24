@@ -1,24 +1,24 @@
-# 달려라 런냥이 앱 분석 및 역설계 하기        
+# Piano to Note 앱 분석
 
 ## 앱 정보
 
 - **앱 이름** 
 
-  - 달려라 런냥이    
+  - Piano to Note
 
-- **시장(마켓)**  
+- **기능**  
 
-  - 전 세계 런닝 앱 시장 규모는 5억 6200만 달러, 그 중 국내 스포츠 레져 시장 중 러닝 시장 규모는 1조 이상의 시장성을 가짐    
+  - 음악을 피아노로 연주하면, 악보로 제공
 
 - **타겟**  
 
-  - 코로나로 체중이 증가된 20~40대 남,여          
+  - 피아노 연주자
 
 
 
 ## 앱 구조도
 
-![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
+!https://github.com/kthhtk/AIFFEL_Quest_cr/blob/master/Flutter/SubQuestC14/node3_6_flow.png
 
 
 
