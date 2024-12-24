@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/d0eff1da-1c77-45f2-9a53-48ed866f762f
 
 
 ## 구현영상 
-
+https://github.com/user-attachments/assets/f4af3cef-8dd7-4c10-ae87-fc92c1d0162d
 
 
 
