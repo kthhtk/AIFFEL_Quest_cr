@@ -1,4 +1,5 @@
 #weather_clothing_advisor
+
 openweathermap api 와 gemini api 사용하여
 현재위치의 날씨를 불러와 gemini에게 옷차림을 물어봄
 
