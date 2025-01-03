@@ -1,3 +1,7 @@
+#weather_clothing_advisor
+openweathermap api 와 gemini api 사용하여
+현재위치의 날씨를 불러와 gemini에게 옷차림을 물어봄
+
 ![image](https://github.com/user-attachments/assets/ed92e75e-1e23-4d86-82a8-ae9560319c78)
 
 
