@@ -11,7 +11,7 @@ class GeminiService {
     try {
       // Google Cloud에서 발급받은 API 키 (여기에 실제 API 키 입력)
       const String apiKey =
-          'AIzaSyA6Msa8h5N8gjMMtHRo4129TovInqqZaso'; // <-- 여기에 발급받은 API 키 입력
+          'key'; // <-- 여기에 발급받은 API 키 입력
 
       // HTTP POST 요청 생성
       final response = await http.post(
